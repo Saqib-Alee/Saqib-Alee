@@ -7,6 +7,4 @@
 - ⚡ Fun fact: Learned about C++ when I was 11.
 
 <!---
-Saqib-Alee/Saqib-Alee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
